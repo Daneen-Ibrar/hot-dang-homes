@@ -1,9 +1,21 @@
+# Hot Dang Homes
 
-# Next JS & WordPress: Build rapid NextJS sites with Next & WP
-This is the starter repo for the Next JS & WordPress course, available here:
-https://www.udemy.com/course/next-js-wordpress/?referralCode=49EB7D4FC7617F4FD9F7
+A Next.js application integrated with a headless WordPress backend.
 
-# hot-dang-homes
-a nextjs app with headless wp integrated but mainly just nextjs 
-for this site I used blocks for the hompeage and headless wp menus for the navbar but the functionality was mainly nextjs
+## Overview
 
+This site primarily utilizes Next.js, but integrates with WordPress for managing homepage blocks and navigation menus. The primary functionality and rendering are handled by Next.js.
+
+### Features
+
+- **Homepage Blocks**: Content on the homepage is managed through WordPress blocks.
+- **Headless WordPress Menus**: Navigation menus are managed by WordPress but rendered with Next.js.
+- **Optimized for Performance**: Utilizes Next.js's features for server-side rendering and static site generation.
+
+## Setup and Installation
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/Daneen-Ibrar/hot-dang-homes.git
+   cd hot-dang-homes
